@@ -1,0 +1,2 @@
+# finance
+calculate the return for investment in IXIC in recent 3 years. Investment started from 2000.01.01. For example,  invest 100$ in IXIC on 2000.01.02, then the second investment $100 paid on 2000.02.02, keep buying one month a  till 36 months later, then calculate the total return for those investment. last, repeat this process everyday, calculate a return if started investment on that day.  
